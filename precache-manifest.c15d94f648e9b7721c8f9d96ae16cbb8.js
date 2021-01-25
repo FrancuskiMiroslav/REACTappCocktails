@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a545a0acf70a98830ddcc6f9c68cbf98",
+    "revision": "d15699579bb2a57929531ed8aa52787a",
     "url": "/REACTappCocktails/index.html"
   },
   {
-    "revision": "31ec98d2a4c195ceda4a",
+    "revision": "0f575c08e472ed0a93de",
     "url": "/REACTappCocktails/static/css/main.7e57030a.chunk.css"
   },
   {
-    "revision": "64f988e04ec47ce486dc",
-    "url": "/REACTappCocktails/static/js/2.ff876b9d.chunk.js"
+    "revision": "f2506d1dd103360ca326",
+    "url": "/REACTappCocktails/static/js/2.9d804b93.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/REACTappCocktails/static/js/2.ff876b9d.chunk.js.LICENSE.txt"
+    "url": "/REACTappCocktails/static/js/2.9d804b93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31ec98d2a4c195ceda4a",
-    "url": "/REACTappCocktails/static/js/main.6bbfcd8f.chunk.js"
+    "revision": "0f575c08e472ed0a93de",
+    "url": "/REACTappCocktails/static/js/main.3e08924d.chunk.js"
   },
   {
     "revision": "c0ec97be3cd4179b9f0f",
