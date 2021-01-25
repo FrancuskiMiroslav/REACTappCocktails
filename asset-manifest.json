@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/REACTappCocktails/static/css/main.7e57030a.chunk.css",
-    "main.js": "/REACTappCocktails/static/js/main.3e08924d.chunk.js",
-    "main.js.map": "/REACTappCocktails/static/js/main.3e08924d.chunk.js.map",
+    "main.js": "/REACTappCocktails/static/js/main.df4645f7.chunk.js",
+    "main.js.map": "/REACTappCocktails/static/js/main.df4645f7.chunk.js.map",
     "runtime-main.js": "/REACTappCocktails/static/js/runtime-main.ab9afdaf.js",
     "runtime-main.js.map": "/REACTappCocktails/static/js/runtime-main.ab9afdaf.js.map",
-    "static/js/2.9d804b93.chunk.js": "/REACTappCocktails/static/js/2.9d804b93.chunk.js",
-    "static/js/2.9d804b93.chunk.js.map": "/REACTappCocktails/static/js/2.9d804b93.chunk.js.map",
+    "static/js/2.5e436efa.chunk.js": "/REACTappCocktails/static/js/2.5e436efa.chunk.js",
+    "static/js/2.5e436efa.chunk.js.map": "/REACTappCocktails/static/js/2.5e436efa.chunk.js.map",
     "index.html": "/REACTappCocktails/index.html",
-    "precache-manifest.c15d94f648e9b7721c8f9d96ae16cbb8.js": "/REACTappCocktails/precache-manifest.c15d94f648e9b7721c8f9d96ae16cbb8.js",
+    "precache-manifest.d062fe04fd1123f33366fff628d10d87.js": "/REACTappCocktails/precache-manifest.d062fe04fd1123f33366fff628d10d87.js",
     "service-worker.js": "/REACTappCocktails/service-worker.js",
     "static/css/main.7e57030a.chunk.css.map": "/REACTappCocktails/static/css/main.7e57030a.chunk.css.map",
-    "static/js/2.9d804b93.chunk.js.LICENSE.txt": "/REACTappCocktails/static/js/2.9d804b93.chunk.js.LICENSE.txt",
+    "static/js/2.5e436efa.chunk.js.LICENSE.txt": "/REACTappCocktails/static/js/2.5e436efa.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/REACTappCocktails/static/media/logo.9a3d2645.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ab9afdaf.js",
-    "static/js/2.9d804b93.chunk.js",
+    "static/js/2.5e436efa.chunk.js",
     "static/css/main.7e57030a.chunk.css",
-    "static/js/main.3e08924d.chunk.js"
+    "static/js/main.df4645f7.chunk.js"
   ]
 }
