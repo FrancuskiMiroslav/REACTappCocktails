@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/REACTappCocktails/static/css/main.7e57030a.chunk.css",
-    "main.js": "/REACTappCocktails/static/js/main.df4645f7.chunk.js",
-    "main.js.map": "/REACTappCocktails/static/js/main.df4645f7.chunk.js.map",
+    "main.js": "/REACTappCocktails/static/js/main.67062a93.chunk.js",
+    "main.js.map": "/REACTappCocktails/static/js/main.67062a93.chunk.js.map",
     "runtime-main.js": "/REACTappCocktails/static/js/runtime-main.ab9afdaf.js",
     "runtime-main.js.map": "/REACTappCocktails/static/js/runtime-main.ab9afdaf.js.map",
     "static/js/2.5e436efa.chunk.js": "/REACTappCocktails/static/js/2.5e436efa.chunk.js",
     "static/js/2.5e436efa.chunk.js.map": "/REACTappCocktails/static/js/2.5e436efa.chunk.js.map",
     "index.html": "/REACTappCocktails/index.html",
-    "precache-manifest.d062fe04fd1123f33366fff628d10d87.js": "/REACTappCocktails/precache-manifest.d062fe04fd1123f33366fff628d10d87.js",
+    "precache-manifest.81363df8cc30e7b2b6634568ef7e5d1f.js": "/REACTappCocktails/precache-manifest.81363df8cc30e7b2b6634568ef7e5d1f.js",
     "service-worker.js": "/REACTappCocktails/service-worker.js",
     "static/css/main.7e57030a.chunk.css.map": "/REACTappCocktails/static/css/main.7e57030a.chunk.css.map",
     "static/js/2.5e436efa.chunk.js.LICENSE.txt": "/REACTappCocktails/static/js/2.5e436efa.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ab9afdaf.js",
     "static/js/2.5e436efa.chunk.js",
     "static/css/main.7e57030a.chunk.css",
-    "static/js/main.df4645f7.chunk.js"
+    "static/js/main.67062a93.chunk.js"
   ]
 }
